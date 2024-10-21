@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    width: 100%;
+    gap: 50px;
+}
+li{
+    list-style: none;
+}
+.bottom{
+    display: flex;
+   border-top: 2px solid black;
+   font-size: 0.8rem;
+}
+h2{
+    font-family: 'Chomsky', sans-serif;
+}
+.side{
+    border-left: 1px solid black;
+    padding-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
